@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: b14894cac70b1734a9e3f74ef301dd49
+timeCreated: 1495418923
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tikus_0
+    21300002: tikus_1
+    21300004: tikus_2
+    21300006: tikus_3
+    21300008: tikus_4
+    21300010: tikus_5
+    21300012: tikus_6
+    21300014: tikus_7
+    21300016: tikus_8
+    21300018: tikus_9
+    21300020: tikus_10
+    21300022: tikus_11
+    21300024: tikus_12
+    21300026: tikus_13
+    21300028: tikus_14
+    21300030: tikus_15
+    21300032: tikus_16
+    21300034: tikus_17
+    21300036: tikus_18
+    21300038: tikus_19
+    21300040: tikus_20
+    21300042: tikus_21
+    21300044: tikus_22
+    21300046: tikus_23
+    21300048: tikus_24
+    21300050: tikus_25
+    21300052: tikus_26
+    21300054: tikus_27
+    21300056: tikus_28
+    21300058: tikus_29
+    21300060: tikus_30
+    21300062: tikus_31
+    21300064: tikus_32
+    21300066: tikus_33
+    21300068: tikus_34
+    21300070: tikus_35
+    21300072: tikus_36
+    21300074: tikus_37
+    21300076: tikus_38
+    21300078: tikus_39
+    21300080: tikus_40
+    21300082: tikus_41
+    21300084: tikus_42
+    21300086: tikus_43
+    21300088: tikus_44
+    21300090: tikus_45
+    21300092: tikus_46
+    21300094: tikus_47
+    21300096: tikus_48
+    21300098: tikus_49
+    21300100: tikus_50
+    21300102: tikus_51
+    21300104: tikus_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tikus_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 331
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 331
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 331
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 331
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 331
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 331
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 331
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 331
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 331
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 266
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 266
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 266
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 266
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 266
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 266
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 266
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_16
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 266
+        width: 125
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 201
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 200
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 201
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 200
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 200
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_22
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 200
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 200
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_24
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 200
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_25
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 200
+        width: 63
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 135
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 135
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 134
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 134
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 134
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 134
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_33
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 134
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 134
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_38
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 68
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_39
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 68
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 68
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 68
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_42
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 68
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_43
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 68
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_47
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 3
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_51
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 3
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tikus_52
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
